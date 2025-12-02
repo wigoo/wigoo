@@ -66,7 +66,7 @@ Some of the products I've designed and shipped as a consultant:
 
 ### BforBank – Financial Product Marketplace
 
-![BforBank](assets/bforbank-600.png)
+![BforBank](assets/bforbank.png)
 
 Designed a marketplace inside the banking app so users can explore and activate credits, savings, and insurance with clarity and confidence.
 
