@@ -14,7 +14,7 @@ Paris, France · Working with clients worldwide
 
 Product Design & UX Lead with 15+ years designing and shipping digital products.
 
-Before founding [**Focuswave**](https://focuswave.io/) in 2017, I served as **Head of Mobile at Condé Nast**, where I led the launch of 20+ apps for brands like *Vogue*, *GQ*, and *Vanity Fair*. I also co-founded **wigoo**, an early no-code platform for building mobile apps, and taught Mobile Design & UX at **Gobelins** in Paris.
+Before founding [**Focuswave**](https://focuswave.io/) in 2017, I served as **Head of Mobile at Condé Nast**, where I led the launch of 20+ apps for brands like *Vogue*, *GQ*, and *Vanity Fair*. I also co-founded **wigoo.com**, an early no-code platform for building mobile apps, and taught Mobile Design & UX at **Gobelins** in Paris.
 
 Today I help companies turn ideas into products that balance user needs and business goals—combining:
 
