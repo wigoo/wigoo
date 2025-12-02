@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # Juan Estupinan
 
 **Product Design & UX Lead · 15+ years crafting digital products**
@@ -63,6 +65,8 @@ Drawing micro-app inspired by 90s MS Paint.
 Some of the products I've designed and shipped as a consultant:
 
 ### BforBank – Financial Product Marketplace
+
+![BforBank](assets/bforbank.png)
 
 Designed a marketplace inside the banking app so users can explore and activate credits, savings, and insurance with clarity and confidence.
 
