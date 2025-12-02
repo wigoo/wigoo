@@ -14,7 +14,7 @@ Paris, France · Working with clients worldwide
 
 Product Design & UX Lead with 15+ years designing and shipping digital products.
 
-Before founding [**Focuswave**](https://focuswave.io/) in 2017, I served as **Head of Mobile at Condé Nast**, where I led the launch of 20+ apps for brands like *Vogue*, *GQ*, and *Vanity Fair*. I also co-founded **wigoo.com**, an early no-code platform for building mobile apps, and taught Mobile Design & UX at **Gobelins** in Paris.
+Before founding [**Focuswave**](https://focuswave.io/) in 2017, I served as **Head of Mobile at Condé Nast**, where I led the launch of 20+ apps for brands like *Vogue*, *GQ*, and *Vanity Fair*. I also co-founded **wigoo**, an early no-code platform for building mobile apps, and taught Mobile Design & UX at **Gobelins** in Paris.
 
 Today I help companies turn ideas into products that balance user needs and business goals—combining:
 
@@ -34,6 +34,10 @@ I use AI coding agents (Claude, Cursor) with React, Next.js, and Tailwind CSS to
 
 ### 🎮 Skills Explorer
 
+<a href="https://focuswave.io/skills-explorer">
+  <img src="assets/skills-explorer.png" width="800" alt="Skills Explorer">
+</a>
+
 Interactive word-search game that replaces a traditional CV.
 
 - Built from scratch with no external game libraries
@@ -48,6 +52,10 @@ Interactive word-search game that replaces a traditional CV.
 ---
 
 ### 🎨 Focus Paint
+
+<a href="https://focuswave.io/focus-paint">
+  <img src="assets/focus-paint.png" width="800" alt="Focus Paint">
+</a>
 
 Drawing micro-app inspired by 90s MS Paint.
 
@@ -66,7 +74,9 @@ Some of the products I've designed and shipped as a consultant:
 
 ### BforBank – Financial Product Marketplace
 
-![BforBank](assets/bforbank.png)
+<a href="https://focuswave.io/bforbank">
+  <img src="assets/bforbank.png" width="800" alt="BforBank">
+</a>
 
 Designed a marketplace inside the banking app so users can explore and activate credits, savings, and insurance with clarity and confidence.
 
@@ -76,6 +86,10 @@ Designed a marketplace inside the banking app so users can explore and activate 
 
 ### Le Parisien – News App Redesign
 
+<a href="https://focuswave.io/leparisien">
+  <img src="assets/leparisien.png" width="800" alt="Le Parisien">
+</a>
+
 Led the UX redesign of Le Parisien's mobile app, turning it into a modern news experience that increased engagement.
 
 → Case study: [focuswave.io/leparisien](https://focuswave.io/leparisien)
@@ -84,6 +98,10 @@ Led the UX redesign of Le Parisien's mobile app, turning it into a modern news e
 
 ### Condé Nast – Digital Publishing Framework
 
+<a href="https://focuswave.io/condenast">
+  <img src="assets/condenast.png" width="800" alt="Condé Nast">
+</a>
+
 As Head of Mobile, led the shift from print to mobile with a reusable app framework powering 20+ mobile apps.
 
 → Case study: [focuswave.io/condenast](https://focuswave.io/condenast)
@@ -91,6 +109,10 @@ As Head of Mobile, led the shift from print to mobile with a reusable app framew
 ---
 
 ### Breathonance – E-learning Platform
+
+<a href="https://focuswave.io/breathonance">
+  <img src="assets/breathonance.png" width="800" alt="Breathonance">
+</a>
 
 Designed and built a complete Webflow platform with Stripe payments and Kajabi integration for online breathwork courses.
 
@@ -101,6 +123,10 @@ Designed and built a complete Webflow platform with Stripe payments and Kajabi i
 
 ### PranayamaRx – Medical-grade Website
 
+<a href="https://focuswave.io/pranayamarx">
+  <img src="assets/pranayamarx.png" width="800" alt="PranayamaRx">
+</a>
+
 Webflow site for a Harvard-affiliated pulmonologist, explaining pranayama from a medical perspective.
 
 **Live:** [pranayamarx.com](https://pranayamarx.com/)  
@@ -109,6 +135,10 @@ Webflow site for a Harvard-affiliated pulmonologist, explaining pranayama from a
 ---
 
 ### React & Share – SaaS Marketing Website
+
+<a href="https://focuswave.io/reactandshare">
+  <img src="assets/reactandshare.png" width="800" alt="React & Share">
+</a>
 
 Webflow implementation of a SaaS marketing site with CMS blog and demo booking flow.
 
@@ -148,4 +178,5 @@ If you need design leadership or someone who can **think, design, and build** yo
 🌐 [focuswave.io](https://focuswave.io/)  
 📧 [juan@focuswave.io](mailto:juan@focuswave.io)  
 👔 [linkedin.com/in/juanestupinan](https://linkedin.com/in/juanestupinan)  
-📹 [youtube.com/@juanestupinan_design](https://youtube.com/@juanestupinan_design)
+📹 [youtube.com/@juanestupinan_design](https://youtube.com/@juanestupinan_design)  
+📷 [instagram.com/juanestupinan_design](https://instagram.com/juanestupinan_design)
